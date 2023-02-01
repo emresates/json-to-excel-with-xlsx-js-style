@@ -1,0 +1,118 @@
+{
+    "content": [
+      {
+        "id": "1111",
+        "name": "testname",
+        "action": "Tap",
+        "elementID": "147896321456987"
+      },
+      {
+        "id": "2222",
+        "name": "testname 21",
+        "action": "Single Tap",
+        "elementID": "36987123654789"
+      },
+      {
+        "id": "3333",
+        "name": "Explanation",
+        "action": "Long Press",
+        "elementID": "147896321456987"
+      },
+      {
+        "id": "4444",
+        "name": "testname3",
+        "action": "Write Text",
+        "elementID": "36987123654789",
+        "text": "kullanici1"
+      },
+      {
+        "id": "5555",
+        "name": "Microsoft",
+        "action": "Mousewheel",
+        "elementID": "36987123654789",
+        "text": "40"
+      },
+      {
+        "id": "6666",
+        "name": "keyboard+",
+        "action": "Zoom In",
+        "elementID": "147896321456987"
+      },
+      {
+        "id": "7777",
+        "name": "keyboard-",
+        "action": "Zoom Out",
+        "elementID": "147896321456987"
+      },
+      {
+        "id": "8888",
+        "name": "text clear",
+        "action": "Clear",
+        "elementID": "36987123654789"
+      },
+      {
+        "id": "9999",
+        "name": "Go",
+        "action": "Store",
+        "elementID": "147896321456987"
+      },
+      {
+        "id": "1010",
+        "name": "start",
+        "action": "Move Up"
+      },
+      {
+        "id": "1110",
+        "name": "taking values",
+        "action": "Scroll Up",
+        "elementID": "36987123654789",
+        "direction": "Up"
+      },
+      {
+        "id": "1210",
+        "name": "Draganddrop",
+        "action": "Assertion",
+        "elementID": "147896321456987",
+        "attribute": "text",
+        "value": "username"
+      },
+      {
+        "id": "1310",
+        "name": "ifstart",
+        "action": "If",
+        "ifType": "Element Is Future",
+        "elementID": "36987123654789"
+      },
+      {
+        "id": "1410",
+        "name": "ifend",
+        "action": "EndIf"
+      },
+      {
+        "id": "1510",
+        "name": "open source",
+        "action": "Get Source",
+        "elementID": "147896321456987"
+      },
+      {
+        "id": "1610",
+        "name": "ss",
+        "action": "Take Screenshot"
+      },
+      {
+        "id": "1710",
+        "name": "forward to",
+        "action": "Forward"
+      }
+    ],
+    "id": "12345dd-b23b-1ee1-be12-1234bc1234",
+    "lastUpdated": "2022-12-30T09:25:27.775Z",
+    "members": ["member1","member2"],
+    "organization": "12345-1234-1234-1234-12345678",
+    "specname": "MobileDevelopment",
+    "tags": ["tag1","tag2"],
+    "testdata": null,
+    "testsuite": "12345678910",
+    "timestamp": "2020-11-20T11:10:12.775Z",
+    "type": "test"
+  }
